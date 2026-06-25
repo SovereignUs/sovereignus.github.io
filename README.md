@@ -18,3 +18,5 @@ The structural interface for the Sovereign Us ecosystem. Dedicated to the engine
 We are building the architecture for self-sovereignty. This node serves as the foundational logic for the integration of biological performance and systemic order. Proceed to project page and read further to join the movement
 
 * **Status:** Active
+
+**Want to be part of the movement for being soverign, aligned and free from misalignment's stress? lets work this out together [contact@sovereignus.org](mailto:contact@sovereignus.org)**
