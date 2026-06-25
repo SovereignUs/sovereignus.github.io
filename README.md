@@ -10,7 +10,7 @@ The structural interface for the Sovereign Us ecosystem. Dedicated to the engine
 
 <a href="https://github.com/SovereignUs/sovereign-node-v1">
   <button style="background-color: #000; color: #fff; padding: 10px 20px; border: 1px solid #fff; cursor: pointer; font-weight: bold;">
-    # [PROCEED TO PROJECT PAGE >](https://github.com/SovereignUs/sovereign-node-v1)
+    [PROCEED TO PROJECT PAGE](https://github.com/SovereignUs/sovereign-node-v1)
   </button>
 </a>
 
@@ -21,5 +21,3 @@ We are building the architecture for self-sovereignty. This node serves as the f
 
 * **Status:** Active
 * **Protocol:** Maintenance & Optimization
-
-# [Proceed to project page >](https://github.com/SovereignUs/sovereign-node-v1)
