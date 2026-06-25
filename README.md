@@ -19,4 +19,4 @@ We are building the architecture for self-sovereignty. This node serves as the f
 
 * **Status:** Active
 
-**Want to be part of the movement for being soverign, aligned and free from misalignment's stress? lets work this out together [contact@sovereignus.org](mailto:contact@sovereignus.org)**
+**Want to be part of the movement for being sovereign, aligned and free from misalignment's stress? lets work this out together [contact@sovereignus.org](mailto:contact@sovereignus.org)**
